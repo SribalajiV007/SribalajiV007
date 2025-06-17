@@ -30,8 +30,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sribalaji007&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sribalaji007&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SribalajiV007&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SribalajiV007&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ### 📅 My GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/sribalaji" alt="GitHub chart" />
+  <img src="https://ghchart.rshah.org/SribalajiV007" alt="GitHub chart" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sribalaji007&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SribalajiV007&theme=onedark" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 🔥 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sribalaji007&label=👀%20Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SribalajiV007&label=👀%20Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
