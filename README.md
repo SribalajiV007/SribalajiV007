@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/SribalajiV007/SribalajiV007/blob/main/images/code.gif" width="300" />
+  <img src="https://i.gifer.com/origin/da/da852b27d04df96d3782a2a7e0f6b1ed_w200.gif" width="300" />
 </p>
+
 
 ---
 
