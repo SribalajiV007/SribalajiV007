@@ -1,8 +1,9 @@
-
-<h1 align="center">Hey 👋, I'm Sri Balaji</h1>
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#5DADE2">Sri Balaji</span>  
+</h1>
 
 <p align="center">
-  💻 Frontend + Backend Developer | 🌱 Learner | ☕ Code + Chai Enthusiast
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -21,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,mongodb,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,html,css,js,react,git,github,vscode" />
 </p>
 
 ---
@@ -39,6 +40,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sribalaji007&theme=onedark" />
+</p>
+
+---
+
+### 🔥 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sribalaji007&label=👀%20Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
 ---
