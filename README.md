@@ -13,7 +13,7 @@
 - 🔨 Building: `smart_warehouse`, `WattWise`, and UI Projects  
 - 💻 Currently focused on mastering:  
   `HTML`, `CSS`, `JavaScript`, `Java`, `Spring Boot`, `MongoDB`, `React`  
-- 🌍 Dreaming of: Becoming a Full Stack Developer  
+- 🌍 Progress 🔥: Becoming a Full Stack Developer  
 - 🔥 I love clean UI, smart features, and practical solutions  
 
 ---
