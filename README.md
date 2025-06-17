@@ -36,6 +36,14 @@
 
 ---
 
+### 📅 My GitHub Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/sribalaji" alt="GitHub chart" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
