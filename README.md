@@ -11,7 +11,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Student + Team Everest Scholar  
+- 🎓 Student + Team Everest Scholar
+- 🧑‍💻 Currently Looking for Oppurturnities...
 - 🔨 Building: `smart_warehouse`, `WattWise`, and UI Projects  
 - 💻 Currently focused on mastering:  
   `HTML`, `CSS`, `JavaScript`, `Java`, `Spring Boot`, `MongoDB`, `React`  
